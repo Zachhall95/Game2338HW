@@ -26,4 +26,6 @@ Angry Birds demonstrates its high quality through the following factors.
 
 Correctness: Angry Birds is a mobile game that involves launching birds into pig fortresses. With varies types of birds designed to tackle different challenges, Angry birds is an entertaining game that can be played anywhere.
 
-Reliability:  
+Reliability: The controls on angry birds works very well even when using a smart phone's touchscreen. The bird's mechanincs and the physics of the game work very consistantly.
+
+Usability: Angry Birds' controls are very simple to grasp. Simply touch the bird pull it back and release. Such a simple control scheme works perfectly with a touchscreen.
