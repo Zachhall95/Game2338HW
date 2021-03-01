@@ -10,7 +10,7 @@ This game is avalible on for purchase on steam and the Nintendo Switch.
 
 ### Rating
 
-I rate games 9 out of 10.
+I rate Hades 9 out of 10.
 
 ## Summary
 
