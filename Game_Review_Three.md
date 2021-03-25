@@ -5,6 +5,7 @@
 ### Game Title
 
 Destiny 2
+
 The game can be found on steam https://store.steampowered.com/app/1085660/Destiny_2/
 
 ### Rating
