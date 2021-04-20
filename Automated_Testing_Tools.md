@@ -4,28 +4,35 @@
 
 _What is the name of the test tool?_ 
 
-Tool Name
+Katalon Studios
 
 _What company developed this test tool?_ 
 
-Company Name
+Katalon
 
 _Does this tool do any test case storage/recording?_ 
 
-Answer
+Yes, Katalon Studios allows the user to store and record all test and their results.
 
 _Does this tool allow tester to link requirements or defects to test cases?_ 
 
-Answer
+Yes, Katalon Studio allows the linking of test cases to requirements.
 
 _If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
 
-Answer
+Katalon Studio supports testing of web, android, and iOS applications. Katalon Studio runs on Groovy (Java).
 
 ### Tool Features
-* Feature One
-* Feature Two
-* Feature Three
+* Accurate object spying
+* Powerful recording utility
+* Dual-editor interface
+* Code-assist utilities
+* Advanced debugger
+* Efficient test artifacts management
+* Robust built in and custom keywords
+* Comprehensive BDD solution
+* Flexible test listener
+* Dynamic data driven testing
 
 ## Tool Two
 
