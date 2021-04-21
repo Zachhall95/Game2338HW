@@ -38,52 +38,59 @@ Katalon Studio supports testing of web, android, and iOS applications. Katalon S
 
 _What is the name of the test tool?_ 
 
-Tool Name
+TestComplete
 
 _What company developed this test tool?_ 
 
-Company Name
+SmartBear
 
 _Does this tool do any test case storage/recording?_ 
 
-Answer
+Yes, TestComplete allows the user to record the tests and stores them for later usage.
 
 _Does this tool allow tester to link requirements or defects to test cases?_ 
 
-Answer
+Yes, TestComplete allows the user to link requirements to test cases through their test case traceability function.
 
 _If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
 
-Answer
+Yes, TestComplete allows for testing of web applications in Internet Explorer, Edge, Chrome, and Firefox. TestComplete also supports JScript, Python, VBScript, DelphiScript, C#Script and C++Script.
 
 ### Tool Features
-* Feature One
-* Feature Two
-* Feature Three
+* Building Automated UI Tests
+* Object Recognition Engine
+* Data-Driven Testing
+* Automated Test Reporting & Analysis
+* Keyword-Driven Testing
+* Intelligent Quality Add-On
+* Cross Browser and Device Testing
+* Parallel Testing
 
 ## Tool Three
 
 _What is the name of the test tool?_ 
 
-Tool Name
+Ranorex Studio
 
 _What company developed this test tool?_ 
 
-Company Name
+Ranorex GmbH
 
 _Does this tool do any test case storage/recording?_ 
 
-Answer
+Through Ranorex recorder, Ranorex studio will record the actions of the user to replicate for a future test.
 
 _Does this tool allow tester to link requirements or defects to test cases?_ 
 
-Answer
+Ranorex Studio tracks defects through Ranorex in combination with TestRail’s defect plugins to support almost any defect tracking tool, such as Bugzilla, FogBugz, and Mantis. 
 
 _If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
 
-Answer
+Ranorex Studio allows testing of desktop, web and mobile applications in C# and VB.NET.
 
 ### Tool Features
-* Feature One
-* Feature Two
-* Feature Three
+* Reliable object identification
+* Action editor & recorder
+* Flexible test suite structure
+* Web and mobile test command center
+* Built for cross-functional teams
